@@ -1,0 +1,6 @@
+{
+  "name": "PayNexa",
+  "description": "A premium global payments and multi-currency wallet platform inspired by modern fintech dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
